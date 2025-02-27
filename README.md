@@ -1,8 +1,14 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
-<h3 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=400&color=A6FF96&width=435&lines=%F0%9F%A4%96Namaste+Peeps+;%F0%9F%98%B8Goutam+This+Side" alt="Typing SVG" /></a>
-</h3>
+<h1 align="center">Hi , I'm Goutam Saha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Code+Wizard;CYBERSEC%20|%20%20Enthusiast;@ctftime%20;Always%20learning%20new%20things;%20;%20N00B%20Chall_Creater&center=true&width=500&height=50;color:red;font-style:bold"></a>
+</p>
+
+## 📊 Github Stats
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Candida's Github Stats" src="https://github-readme-stats.vercel.app/api?username=0xcyberpj&show_icons=true&count_private=true&theme=algolia" height="192px"/></a></p>
+    
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/goutamxd/goutamxd/output/github-snake-dark.svg" />
